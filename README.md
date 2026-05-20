@@ -35,8 +35,8 @@ A Python-based web scraper that collects product listings from Daraz Nepal and e
 Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone 'https://github.com/Sohan-Raj-Adhikari/Daraz-Scraper/'
+cd 'Daraz-Scraper'
 ```
 
 Create a virtual environment:
